@@ -1,0 +1,50 @@
+#wp_content #content .tab_main .titleBar h1
+{
+    font-size: 18pt;
+}
+#wp_content #content .tab_main .titleBar #pageDescription
+{
+    font-size: 17px;
+    color: rgb(150,150,150);
+    margin: 10px 5px;
+}
+#wp_content #content .tab_main .titleBar
+{
+    margin: 10px 0px;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box h3.title_product a, #wp_content #content .tab_main .nodeList ul li.list_box .box_product_right p.user
+{
+    font-size: 11pt;
+    color:  #176093;
+    line-height: 30px;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box .box__product_md
+{
+    width: 70%;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box .box_product_right
+{
+    width: 30%;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box p.grey
+{
+    color: rgb(150,150,150);
+    margin: 5px 0px;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box p.grey strong, #wp_content #content .tab_main .nodeList ul li.list_box .box_product_right p
+{
+    color: red;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box .box_product_md span.vip
+{
+    background-color: red;
+    border-color: skyblue;
+    padding: 5px 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%;
+}
+#wp_content #content .tab_main .nodeList ul li.list_box .box_product_md span.btn
+{
+    display: inline!important;
+}

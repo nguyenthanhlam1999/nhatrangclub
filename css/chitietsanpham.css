@@ -1,0 +1,57 @@
+#wp_content #content #product_detail
+{
+    width: 100%;
+    height: auto;
+    margin: 20px 0px;
+    background: #d7edfc;
+}
+#wp_content #content #product_detail ul.box_product_detail li
+{
+    padding: 5px 10px;
+}
+#wp_content #content #product_detail ul.box_product_detail li a
+{
+    font-size: 18px;
+    color: red;
+    line-height: 30px;
+}
+#wp_content #content #content_product .content_detail_product
+{
+    display: flex;
+}
+#wp_content #content #content_product .content_detail_product .user_post
+{
+    width: 15%;
+    text-align: center;
+    margin-right: 12px;
+}
+#wp_content #content #content_product .content_detail_product .user_post .img_user
+{
+    background: #d7edfc;
+}
+#wp_content #content #content_product .content_detail_product .user_post .img_user img
+{
+    padding: 20px 0px 5px 0px;
+}
+#wp_content #content #content_product .content_detail_product .user_post p
+{
+    padding: 5px 0px;
+}
+#wp_content #content #content_product .content_detail_product .content
+{
+    width: 85%;
+    height: auto;
+}
+#wp_content #content #content_product .content_detail_product .content img
+{
+    width: 100%;
+}
+#wp_content #content #content_product .title_detail_product
+{
+    margin-bottom: 12px;
+}
+#wp_content #content #content_product .title_detail_product h1
+{
+    font-size: 20px;
+    line-height: 20px;
+}

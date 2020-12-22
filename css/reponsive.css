@@ -52,6 +52,16 @@
     {
         height: auto;
     }
+    /* chi tiết sản phẩm */
+    #wp_content #content #content_product .content_detail_product .user_post
+    {
+        width: 40%;
+    }
+    #wp_content #content #content_product .content_detail_product .content
+    {
+        width: 60%;
+    }
+    /* end chi tiết sản phẩm */
     #footer{width: 100%;}
     #footer .mid { width: 100%;display: block; }
     #footer .top {display: block;}

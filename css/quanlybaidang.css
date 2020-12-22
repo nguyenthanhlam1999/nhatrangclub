@@ -1,0 +1,62 @@
+#wp_content #content #main_content .post_mana_title
+{
+    display: flex;
+}
+#wp_content #content #main_content .post_mana_title .stt
+{
+    width: 10%;
+    text-align: center;
+
+}
+#wp_content #content #main_content .post_mana 
+{
+    border: 1px solid #ddd;
+    background-color: #FFF;
+    box-shadow: inset 0 0 35px 5px #fafbfd;
+    padding: 10px
+}
+#wp_content #content #main_content .post_mana .boder, #wp_content #content #main_content .post_mana_title
+{
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#wp_content #content #main_content .post_mana_title:hover
+{
+    background: #ddd;
+    cursor: pointer;
+}
+#wp_content #content #main_content .post_mana_title .stt h1.stt_1, #wp_content #content #main_content .post_mana_title .title_post h1.tt
+{
+    padding: 12px 5px;
+}
+#wp_content #content #main_content .post_mana .boder h1
+{
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-left: 5px;
+    color: #055699;
+}
+#wp_content #content #main_content .post_mana_title .title_post
+{
+    width: 40%;
+    text-align: center;
+
+}
+#wp_content #content #main_content .post_mana_title .title_post .tt
+{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 75%;
+}
+#wp_content #content #main_content .post_mana_title .status
+{
+    width: 30%;
+    text-align: center;
+}
+#wp_content #content #main_content .post_mana_title .act
+{
+    width: 20%;
+    text-align: center;
+}
